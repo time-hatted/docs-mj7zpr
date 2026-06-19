@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-9cp39w.hartawin.space/sitemap.xml
